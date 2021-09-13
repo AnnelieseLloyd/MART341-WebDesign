@@ -1,0 +1,7 @@
+Websites I enjoy visiting are: [100,000 Stars](https://stars.chromeexperiments.com/) , [how stuff works](https://www.howstuffworks.com/) and [mashable cool tech news](https://mashable.com/tech)
+
+The relationship between ip addresses and the DNS is that a DN server translates a domain into an ip address.
+
+A cookie stores information on your computer so that when the client requests the get function for the server, the cookie information goes with it. Therefore the server knows who the client is.
+
+There are three essential parts of a URL. The first is the protocol, which is normally http and it describes how your web browser and your web server communicate. Then there is the domain name, which is a unique identifier of the website. Finally, there is the path, which describes the path of the directory and then path to the file.
