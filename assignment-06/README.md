@@ -1,0 +1,5 @@
+1. A page will only render one main element. Therefore, when writing html, you can only have one <head> and <body> element.
+The <head> and <body> element are different because the <head> element is a container for processing information and document metadata. It includes high-level information on the site, such as the title.
+The <body> element is rendered by the browser and displays the data on the user's computer. Essentially, the <body> element contains anything you want users to see.
+2. The Difference between structure and semantic markup is that structural markup structures the page layout, like sidebar or navigation bar. Meanwhile, Semantic markup provides additional information, like adding emphasis to a sentence.
+3. Overall, this week seemed pretty straight forward. Some of my successes were added an image and headings. Some of my challenges are remembering the 4 main elements of html. I overcame this challenge my creating a word document were I can have the 4 main elements for reference. 
