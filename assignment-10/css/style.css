@@ -1,4 +1,4 @@
-<style>
+
 h1 {
     color: rgba(148, 114, 212, 0.747);
     font-size: 40px;
@@ -19,7 +19,7 @@ body {
        text-align: center;
      }
      
- }
+ 
  .dress {
     font-family: Arial;
     color: rgb(119, 36, 36);
@@ -85,5 +85,5 @@ body {
         bottom: 0;
   
      }
-</style>
+
 
