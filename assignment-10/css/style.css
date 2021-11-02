@@ -1,0 +1,88 @@
+<style>
+h1 {
+    color: rgba(148, 114, 212, 0.747);
+    font-size: 40px;
+}
+body {
+    font-family: Arial;
+    background-color: #fce4eb;
+    
+}
+.image1, .image2, .image3 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+    * {
+        font-family: Arial;
+       text-align: center;
+     }
+     
+ }
+ .dress {
+    font-family: Arial;
+    color: rgb(119, 36, 36);
+     
+ }
+  /*wanted to do the colors similar to how you did your rainbow*/
+ .canvas {
+    background-color: rgb(102, 185, 201, 0.5);
+    border: 5px solid gray;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+}
+    .colors {
+        width: 280px;
+        height: 150px;
+        position: absolute;
+      
+        left: 10px;
+        
+        bottom: 75px;
+     }
+     .pink {
+        background-color:  rgb(238, 198, 226);
+        width: 40px;
+        height: 75px;
+        position: absolute;
+   
+        left: 0;
+        bottom: 0;
+     }
+     .purple {
+        background-color: rgba(168, 131, 236, 0.747);
+        width: 40px;
+        height: 100px;
+        position: absolute;
+        left: 40px;
+        bottom: 0;
+     }
+    
+          .green {
+        background-color: #B2D9BF;
+        width: 40px;
+        height: 150px;
+        position: absolute;
+        left: 120px;
+        bottom: 0;
+     }
+     .blue {
+        background-color:#66B9C9;
+        width: 40px;
+        height: 125px;
+        position: absolute;
+        left: 160px;
+        bottom: 0;
+     }
+     .brown {
+        background-color: #bf9e86;
+        width: 40px;
+        height: 100px;
+        position: absolute;
+        left: 200px;
+        bottom: 0;
+  
+     }
+</style>
+
