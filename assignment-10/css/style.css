@@ -37,7 +37,7 @@ body {
         width: 280px;
         height: 150px;
         position: absolute;
-      
+      align-items: center;
         left: 10px;
         
         bottom: 75px;
