@@ -19,6 +19,7 @@
  }
  *{
     text-align: center;
+    background-color: lightblue;
 }
 .para p::first-letter{
     color: rgba(76, 28, 189, 0.568);
