@@ -4,3 +4,9 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'KumarOneOutline';
+    src: ('../fonts/KumarOneOutline-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

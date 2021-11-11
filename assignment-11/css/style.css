@@ -1,14 +1,36 @@
  .content{
-    font-family: monospace;
+    font-family: monospace, Georgia;
  }
  h2{
-     font-family: Times;
-     font-size: 26px;
+     font-family: Times, monospace;
+     font-size: 21px;
      text-align: center;
  }
  h3{
-     font-family: serif;
+     font-family: serif, times;
+     line-height: .75em;
  }
  h1{
-     font-family: 'DancingScript';
+     font-family: 'DancingScript', serif;
  }
+ .content{
+    font-family: 'KumarOneOutline', serif;
+ }
+ *{
+    text-align: center;
+}
+.para p::first-letter{
+    color: rgba(76, 28, 189, 0.568);
+    text-align: center;
+  
+}
+
+a:hover {
+   color: rgb(16, 148, 108);
+   font-style: italic;
+}
+a:link {
+   color: #2a6ab3;
+   text-decoration: none;
+}
+
