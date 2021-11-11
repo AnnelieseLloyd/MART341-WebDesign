@@ -1,5 +1,7 @@
- .content{
+ .para p::first-letter{
+        color: rgba(76, 28, 189, 0.568);
     font-family: monospace, Georgia;
+            text-align: center;
  }
  h2{
      font-family: Times, monospace;
@@ -20,11 +22,7 @@
  *{
     text-align: center;
     background-color: lightblue;
-}
-.para p::first-letter{
-    color: rgba(76, 28, 189, 0.568);
-    text-align: center;
-  
+ 
 }
 
 a:hover {
