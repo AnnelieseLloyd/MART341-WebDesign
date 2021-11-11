@@ -1,1 +1,3 @@
-hi
+A system font is a font already installed on a local computer, a web-safe font is already installed on almost every computer, application and operating system by default. A web font is special for websites, its where the browser downloads the font while rendering the page. 
+The importance of having fallback fonts is to have a font just in case your fist choice font doesn't work. 
+Some of the challanges I had this week was my webpage not displaying on a browser. However, after talking with the professor, we got it worked out and I noticed my title tags had one capitalized T, so once i fixed that, it worked like normal. Another challenge I am having is that my styles aren't showing up on my website. I am not sure what I am doing wrong, however, so I would love to recieve feedback and hopefully redo this assignment with the correct styling. 
