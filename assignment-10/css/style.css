@@ -1,12 +1,13 @@
 
 h1 {
     color: rgba(148, 114, 212, 0.747);
-    font-size: 40px;
+    font-size: 100px;
 }
 body {
     font-family: Arial;
     background-color: #fce4eb;
-    margin: -10;
+    margin: -1;
+    width: auto;
  /*wanted to format all the images similar */   
 }
 .image1, .image2, .image3 {
