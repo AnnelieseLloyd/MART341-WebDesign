@@ -6,7 +6,7 @@ h1 {
 body {
     font-family: Arial;
     background-color: #fce4eb;
-    margin: 0;
+    margin: -10;
  /*wanted to format all the images similar */   
 }
 .image1, .image2, .image3 {
