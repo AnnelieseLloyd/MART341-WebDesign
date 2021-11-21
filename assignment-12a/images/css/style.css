@@ -5,6 +5,7 @@
     padding: 1em 2em;
     margin: 1em;
     display: inline;
+    text-align: center;
 }
     a:link {
         color: #f1dd21;
@@ -14,6 +15,7 @@
 .inline-block {
     display: inline-block;
     position: relative;
+    text-align: center;
 }
 .inline-block1 {
     
