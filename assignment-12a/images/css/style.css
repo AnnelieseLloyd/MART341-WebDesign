@@ -6,6 +6,7 @@
     margin: 1em;
     display: inline;
     text-align: center;
+    float: center;
 }
     a:link {
         color: #f1dd21;
@@ -18,19 +19,19 @@
     text-align: center;
 }
 .inline-block1 {
-    
+    display: inline-block;
     position: relative;
-    float: left;
+   
 }
 .inline-block2 {
-    
+    display: inline-block;
     position: relative;
-    float: center;
+   
 }
 .inline-block3 {
-    
+    display: inline-block;
     position: relative;
-    float: right;
+   
 }
 
 * {
