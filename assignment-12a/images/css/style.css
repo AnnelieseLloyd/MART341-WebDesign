@@ -4,8 +4,7 @@
     border: 2px solid #eaee11;
     padding: 1em 2em;
     margin: 1em;
-    display: inline;
-    text-align: center;
+      text-align: center;
     float: center;
     background-color: yellow;
 }
@@ -14,10 +13,22 @@
       
 
      }
+    h1 {
+        color: #f1dd21;
+      
+
+     }
+     h2 {
+        color: #f1f0e2;
+      
+
+     }
 .inline-block {
     display: inline-block;
     position: relative;
     text-align: center;
+    size: 1;
+
 
 }
 
