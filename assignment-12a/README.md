@@ -1,0 +1,2 @@
+1. The difference between padding, margins and borders are: margin is the space outside the border,padding is the space within the border and the border is the outer edge of the element.
+2. Some challenges this week was getting elements in-line like on the same row. I overcame this challenge by doing some research and re-looking over the homework website.

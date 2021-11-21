@@ -1,0 +1,37 @@
+.my-box {
+    width: 400;
+    height: 300;
+    border: 2px solid #eaee11;
+    padding: 1em 2em;
+    margin: 1em;
+    display: inline;
+}
+    a:link {
+        color: #f1dd21;
+      
+
+     }
+.inline-block {
+    display: inline-block;
+    position: relative;
+}
+.inline-block1 {
+    
+    position: relative;
+    float: left;
+}
+.inline-block2 {
+    
+    position: relative;
+    float: center;
+}
+.inline-block3 {
+    
+    position: relative;
+    float: right;
+}
+
+* {
+color: green;
+text-align: center;
+}
