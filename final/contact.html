@@ -44,16 +44,24 @@
       <form action="./README.md" method="post" id="enter-name" class="basic-forms">
       <p>
         Please enter your name:
-          <input type="text" name="user's name" id="name_input" size="10" autofocus />
+          <input type="text" name="user's name" id="name_input" size="20" autofocus />
           </p>
       
       <p>
-        Do you live in Montana:
-          <input type="radio" name="yesmontana" value= "yes" id="input_yes" /> Yes
-            <input type="radio" name="nomontana" value= "no" id="input_no" /> No
+        <p>
+            Please enter your email address:
+              <input type="text" name="user's email" id="email_input" size="20" autofocus />
+              </p>
+          
+          <p>
+        How can I help you today?
+          <input type="radio" name="general" value= "general" id="input_general" /> General Inquiry
+            <input type="radio" name="work" value= "work" id="input_work" /> Employer/Working with Anneliese
           </p>
           <p>
-        Enter Comments or Concerns:
+
+        Tell me more!<br> 
+
         <textarea name="comments" id="textarea">Enter up to 500 characters...</textarea>
       </p>
       <input type="submit" name="submit" value="Submit" col/>
