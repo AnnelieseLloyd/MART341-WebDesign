@@ -11,5 +11,52 @@
     
   </head>
   <body>
+      <div id="contact">
+          <h1>Contact</h1>
+
+      </div>
+      <address>
+        The University of Montana<br />
+        32 Campus Dr <br />
+        Suite 250 <br />
+        Missoula, MT 59812
+      </address>
+        <a  href= “tel:406-243-5723">Phone: (406) 243-5723 </a><br/>
+      <a href=<a href="mailto:paul.gladen@umontana.edu">Email</a>
+      <table style="width: 200px; margin: 40px auto;">
+         <tr>
+            <th></th>
+            <th scope="col">Company Information</th>
+         </tr>
+         <tr>
+            <th scope="row">Open Hours</th>
+            <td>9:00am - 5:00pm</td>
+         </tr>
+         <tr>
+            <th scope="row">Director</th>
+            <td>Paul Gladen</td>
+         </tr>
+         <tr>
+           <th scope="row">Parent Company</th>
+           <td>Accelerate Montana</td>
+         </tr>
+      </table>
+      <form action="./README.md" method="post" id="enter-name" class="basic-forms">
+      <p>
+        Please enter your name:
+          <input type="text" name="user's name" id="name_input" size="10" autofocus />
+          </p>
+      
+      <p>
+        Do you live in Montana:
+          <input type="radio" name="yesmontana" value= "yes" id="input_yes" /> Yes
+            <input type="radio" name="nomontana" value= "no" id="input_no" /> No
+          </p>
+          <p>
+        Enter Comments or Concerns:
+        <textarea name="comments" id="textarea">Enter up to 500 characters...</textarea>
+      </p>
+      <input type="submit" name="submit" value="Submit" col/>
+      </form>
       </body>
       </html>
