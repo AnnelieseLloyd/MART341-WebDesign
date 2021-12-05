@@ -65,12 +65,12 @@ header {
 }
 .images{
     text-align: center;
-    position: relative;
+    position: absolute;
 }
 *{
     color:rgb(133, 172, 245);
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
+    position: absolute;
 }
 .h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
