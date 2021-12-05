@@ -6,7 +6,7 @@ header {
     margin: 0;
     height: 2.15em;
     text-align: right;
-    position: fixed;
+  
 }
 
 /* Set the layout of the menu: */
@@ -17,14 +17,14 @@ header {
     text-align: center;
     background-color: #26272b;
     padding: 0.5em 0;
-    position: fixed;
+    
 }
 
 /* Style the links: */
 .menu-item a {
     color: #fff;
     text-decoration: none;
-    position: fixed;
+   
 }
 .menu-item:hover {
     background-color: #1CCDCA;
