@@ -60,5 +60,5 @@ h4{
       text-align: left;
   }
   *{
-      size: large;
+      text-size-adjust: large;
   }
