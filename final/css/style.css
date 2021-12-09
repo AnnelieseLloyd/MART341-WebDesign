@@ -53,3 +53,9 @@ h4{
     clear: both;
     display: table;
   }
+  .right{
+      text-align: right;
+  }
+  .left{
+      text-align: left;
+  }
