@@ -59,3 +59,6 @@ h4{
   .left{
       text-align: left;
   }
+  *{
+      size: large;
+  }
