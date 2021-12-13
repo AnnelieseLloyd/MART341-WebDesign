@@ -67,5 +67,13 @@ img{
     width: auto;
     max-height: 100;
 }
+h1{
+    @font-face {
+        font-family: 'Sofia-Regular';
+        src: url('./fonts/Sofia/Sofia-Regular.ttf') format('Truetype');
+        font-weight: normal;
+        font-style: normal;
+        }
+}
 
   
