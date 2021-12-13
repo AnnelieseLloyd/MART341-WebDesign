@@ -37,7 +37,7 @@
   } 
 
 
-  /* change start, The dropdown container */
+         /* change start, The dropdown container */
 .dropdown {
   float: left;
   overflow: hidden;
@@ -47,9 +47,9 @@
   font-size: 16px;
   border: none;
   outline: none;
-  color: white;
+  color: rgb(250, 244, 244);
   padding: 14px 16px;
-  background-color: inherit;
+  background-color: rgb(238, 174, 150);
   font-family: inherit; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
 }
@@ -87,7 +87,7 @@
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
-  display: block
+  display: inline-block
 }
   </style> 
     
@@ -100,6 +100,16 @@
 	<li><a href="./about.html">About</a></li> 
 	<li><a href="./project.html">Projects</a></li> 
     <li><a href="./contact.html">Contact</a></li> 
+    <div class="dropdown">
+      <button class="dropbtn">Social Media
+      <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+<a href="https://www.linkedin.com/in/anneliese-lloyd/">LinkedIn</a> 
+<a href="https://www.instagram.com/invites/contact/?i=15abmin1qui5e&utm_content=ljcdva">Instagram</a>
+<a href="https://pin.it/3JOSZIo">Pinterest</a>
+      </div>
+  </div>
 	
   </ul> 
 </div> 
