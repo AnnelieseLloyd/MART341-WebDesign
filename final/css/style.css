@@ -77,15 +77,17 @@ img{
       
 }
 h1{
-    font-family:  'Sofia';
-    src: url(./fonts/Sofia/Sofia-Regular.ttf) format('Truetype');
+    font-family:  'Sofia', cursive;
+    src: local("./fonts/Sofia/Sofia-Regular.ttf") format('Truetype');
     font-weight: normal;
     font-style: normal;
     font-size: xx-large;
  }
  pre{
      font-size: large;
+     font-family: sans-serif, 'Times New Roman', Times, serif;
  }
+
 
 
   
