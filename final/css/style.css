@@ -71,14 +71,14 @@ img{
 }
 @font-face {
     font-family: 'Sofia';
-    src: url('./fonts/Sofia/Sofia-Regular.ttf') format('Truetype');
+    src: url(./fonts/Sofia/Sofia-Regular.ttf) format('Truetype');
     font-weight: normal;
     font-style: normal;
       
 }
 h1{
     font-family:  'Sofia';
-    src: url('./fonts/Sofia/Sofia-Regular.ttf') format('Truetype');
+    src: url(./fonts/Sofia/Sofia-Regular.ttf) format('Truetype');
     font-weight: normal;
     font-style: normal;
     font-size: xx-large;
