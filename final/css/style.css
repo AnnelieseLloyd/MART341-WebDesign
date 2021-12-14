@@ -62,18 +62,25 @@ h4{
 h2{
     text-size-adjust: large;
     background-color: rgb(240, 181, 161);
+    font-family:Trattatello, fantasy
 }
 img{
     width: auto;
     max-height: 100;
 }
-h1{
-    @font-face {
-        font-family: Sofia;
-        src: url('./fonts/Sofia/Sofia-Regular.ttf') format('Truetype');
-        font-weight: normal;
-        font-style: normal;
-        }
+@font-face {
+    font-family: Sofia;
+    src: url('./fonts/Sofia/Sofia-Regular.ttf') format('Truetype');
+    font-weight: normal;
+    font-style: normal;
+      
 }
+h1{
+    font-family:  'Sofia';
+    src: url('./fonts/Sofia/Sofia-Regular.ttf') format('Truetype');
+    font-weight: normal;
+    font-style: normal;
+ }
+
 
   
