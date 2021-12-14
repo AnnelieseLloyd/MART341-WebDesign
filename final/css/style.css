@@ -69,7 +69,7 @@ img{
 }
 h1{
     @font-face {
-        font-family: 'Sofia-Regular';
+        font-family: Sofia;
         src: url('./fonts/Sofia/Sofia-Regular.ttf') format('Truetype');
         font-weight: normal;
         font-style: normal;
